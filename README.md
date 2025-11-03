@@ -265,10 +265,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mujib ur Rahman**
-- Email: marwatstack@gmail.com
-- GitHub: [@MujiburRahman1](https://github.com/MujiburRahman1)
-- LinkedIn: [Your LinkedIn Profile]
+**Muhammad Farhan**
+- Email: itsfarhan.pk@gmail.com
 
 ## 🙏 Acknowledgments
 
